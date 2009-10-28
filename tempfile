@@ -1,0 +1,41 @@
+#! /usr/bin/env ruby
+
+require 'socket'
+load 'client.rb'
+load 'config.rb'
+$config = Config.new
+load 'event.rb'
+load 'handler.rb'
+$handler = Handler.new
+load 'events.rb'
+load 'scheduleevent.rb'
+load 'scheduler.rb'
+Dir.open 'scripts' do |d|
+  d.each do |f|
+    load 'scripts/'+f unless ['.','..','.svn','install.rb'].include?(f) || f.match(/.swp$/)
+  end
+end
+load 'scripts/install.rb'
+
+clients = []
+$config.getServers.each do |n,s|
+  client = Client.new(s['host'],s['port'],s['nick'],s['altNick'],s['user'],s['host'],s['fullName'],s['scheduleInterval'],s['autoJoin'])
+  clients.push client
+end
+
+lastsecond = 0
+while (true)
+  events = select(clients,nil,nil,0.05)
+  unless events.nil?
+    events[0].each do |s|
+      s.handle s.gets
+    end
+  end
+	unless lastsecond == Time.now.to_i
+		lastsecond = Time.now.to_i
+	  clients.each do |c|
+	    c.doEvents
+	  end
+	end
+end
+

@@ -1,0 +1,28 @@
+options:
+  commandChar: ~
+sandbox:
+  timeout: 2
+bfinterpreter:
+  timeout: 2
+servers:
+  server1:
+    host2: 64.237.34.150
+    host: 205.210.145.3
+    port: 6667
+    nick: rubot
+    altNick: rubot_
+    user: rubot
+    fullName: LucasOman bot
+    scheduleInterval: 1
+    autoJoin:
+      - '#netmonster'
+  server2:
+    host: 67.207.138.239
+    port: 6667
+    nick: rubot
+    altNick: rubot_
+    user: rubot
+    fullName: LucasOman bot
+    scheduleInterval: 1
+    autoJoin:
+      - '#encore'

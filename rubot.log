@@ -1,0 +1,143 @@
+SENT: NICK rubot
+SENT: USER rubot rubot 205.210.145.3 :LucasOman bot
+SENT: NICK rubot
+SENT: USER rubot rubot 67.207.138.239 :LucasOman bot
+OTHER EVENT: NOTICE AUTH :*** Processing connection to irc.igs.ca
+SENT: NICK rubot
+SENT: USER rubot rubot 67.207.138.239 :LucasOman bot
+OTHER EVENT: NOTICE AUTH :*** Looking up your hostname...
+OTHER EVENT: NOTICE AUTH :*** Checking Ident
+SENT: NICK rubot
+SENT: USER rubot rubot 67.207.138.239 :LucasOman bot
+OTHER EVENT: NOTICE AUTH :*** Found your hostname
+SENT: NICK rubot
+SENT: USER rubot rubot 67.207.138.239 :LucasOman bot
+SENT: PONG :D08D3CD2
+SENT: JOIN #encore
+oasis.liveharmony.org: (001) Welcome to the Internet Relay Chat network, rubot!~rubot@c-68-51-189-193.hsd1.ga.comcast.net
+oasis.liveharmony.org: (002) Your host is oasis.liveharmony.org [67.207.138.239:6667], running ConferenceRoom
+oasis.liveharmony.org: (003) This server was started on Tue, 23 Jun 2009 08:10:26 0000 (Compiled on Dec 5 2007 10:20:29)
+oasis.liveharmony.org: (004) oasis.liveharmony.org ConferenceRoom/3.5.0.4-SEC abcdefghijkmnopqrstwxyzABCGIJLMRWX abcdeijklmnopqrstuvzACJLMNORU
+oasis.liveharmony.org: (005) CONFERENCEROOM WALLCHOPS WHISPER KNOCK LANG NICKLEN=30 WATCH=128 MKICK MODES=6 TOPICLEN=384 SILENCE=10 KICKLEN=64 PREFIX=(ovu)@+- CHANTYPES=# :are supported on this server
+oasis.liveharmony.org: (005) CHANMODES=bouv,k,lOMN,cdejimnpqrstzAJLRU UHNAMES NAMESX CASEMAPPING=ASCII SM SAFELIST ELIST=MUCTLOX RATING MAXBANS=200 MAXCHANNELS=25 SSL=6000 :are supported on this server
+oasis.liveharmony.org: (007) oasis.liveharmony.org 1252123013 :Sat, 05 Sep 2009 03:56:53 0000
+oasis.liveharmony.org: (011) http://www.liveharmony.org :Please read the Acceptable User Policy.
+oasis.liveharmony.org: (014) -\CEAQB98I5ASrw8C^
+oasis.liveharmony.org: (251) There are 6 users and 152 invisible on 1 servers
+oasis.liveharmony.org: (252) 4 :operator(s) online
+oasis.liveharmony.org: (253) 3 :unknown connection(s)
+oasis.liveharmony.org: (254) 104 :channels formed
+oasis.liveharmony.org: (255) I have 152 clients and 0 servers
+oasis.liveharmony.org: (265) Current local users: 152 Max: 298
+oasis.liveharmony.org: (266) Current global users: 158 Max: 304
+oasis.liveharmony.org: (377) Z-Default 80 1245744624 :Last MOTD change information: Tue, 23 Jun 2009 08:10:24 0000
+oasis.liveharmony.org: (375) - oasis.liveharmony.org Message of the day
+oasis.liveharmony.org: (372) - Welcome to liveHarmony!
+oasis.liveharmony.org: (372) -
+oasis.liveharmony.org: (372) - http://www.liveharmony.org
+oasis.liveharmony.org: (372) -
+oasis.liveharmony.org: (372) -
+oasis.liveharmony.org: (372) - To start your own room visit http://www.liveharmony.org/getstarted.html
+oasis.liveharmony.org: (372) -
+oasis.liveharmony.org: (372) - Important safety information: http://www.liveharmony.org/safety.html
+oasis.liveharmony.org: (372) -
+oasis.liveharmony.org: (372) - Technical support information: http://www.liveharmony.org/support.html
+oasis.liveharmony.org: (372) -
+oasis.liveharmony.org: (372) -
+oasis.liveharmony.org: (376) - End of message of the day
+oasis.liveharmony.org: (221) +ixpn
+* rubot has joined #encore
+oasis.liveharmony.org: (332) #encore :12:05:58 < swank> Last night I also had like an entire box of triscuits that tasted like shrimp ramen noodles and a bag of goldfish
+oasis.liveharmony.org: (333) #encore alambert_ 1247420182
+oasis.liveharmony.org: (353) = #encore :rubot fwarg ARF lucasHome lucas kmc alambert2
+oasis.liveharmony.org: (366) #encore :End of /NAMES list.
+OTHER EVENT: NOTICE AUTH :*** No Ident response
+SENT: PONG :D378DBA4
+SENT: JOIN #netmonster
+irc.igs.ca: (001) Welcome to the EFNet Internet Relay Chat Network rubot
+irc.igs.ca: (002) Your host is irc.igs.ca[205.210.145.3/6667], running version ircd-ratbox-2.2.8
+irc.igs.ca: (003) This server was created Sun Jul 6 2008 at 01:27:45 EDT
+irc.igs.ca: (004) irc.igs.ca ircd-ratbox-2.2.8 oiwszcerkfydnxbauglZCD biklmnopstveI bkloveI
+irc.igs.ca: (005) CHANTYPES=&# EXCEPTS INVEX CHANMODES=eIb,k,l,imnpst CHANLIMIT=&#:40 PREFIX=(ov)@+ MAXLIST=beI:100 NETWORK=EFNet MODES=4 STATUSMSG=@+ KNOCK CALLERID=g :are supported by this server
+irc.igs.ca: (005) SAFELIST ELIST=U CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=9 CHANNELLEN=50 TOPICLEN=160 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=60 :are supported by this server
+irc.igs.ca: (005) TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+irc.igs.ca: (251) There are 8337 users and 38200 invisible on 53 servers
+irc.igs.ca: (252) 333 :IRC Operators online
+irc.igs.ca: (253) 8 :unknown connection(s)
+irc.igs.ca: (254) 23465 :channels formed
+irc.igs.ca: (255) I have 2422 clients and 1 servers
+irc.igs.ca: (265) 2422 2660 :Current local users 2422, max 2660
+irc.igs.ca: (266) 46537 56182 :Current global users 46537, max 56182
+irc.igs.ca: (250) Highest connection count: 2661 (2660 clients) (512810 connections received)
+irc.igs.ca: (375) - irc.igs.ca Message of the Day -
+irc.igs.ca: (372) - Welcome to irc.avalonworks.ca, located in Toronto, Ontario, Canada.
+irc.igs.ca: (372) - _ _ __ __ _
+irc.igs.ca: (372) - / \__ ____ _| | ___ _ __ \ \ / /__ _ __| | _____
+irc.igs.ca: (372) - / _ \ \ / / _` | |/ _ \| '_ \ \ \ /\ / / _ \| '__| |/ / __|
+irc.igs.ca: (372) - / ___ \ V / (_| | | (_) | | | | \ V V / (_) | | | <\__ \
+irc.igs.ca: (372) - /_/ \_\_/ \__,_|_|\___/|_| |_| \_/\_/ \___/|_| |_|\_\___/
+irc.igs.ca: (372) - [ DSL | CABLE | WIRELESS | WEB HOSTING | CO-LOCATION | DIALUP | ISDN ]
+irc.igs.ca: (372) - This server is hosted by Avalon Works Corporation
+irc.igs.ca: (372) - Canada's premiere provider of Internet services.
+irc.igs.ca: (372) -
+irc.igs.ca: (372) - Ports available to connecting clients are: 6660-6669, 7000
+irc.igs.ca: (372) -
+irc.igs.ca: (372) - [RULES]
+irc.igs.ca: (372) - Bots: We do not allow bots, but will not remove them unless they bother us
+irc.igs.ca: (372) - Spam: Unsolicited advertisements will not be tolerated.
+irc.igs.ca: (372) - Content: We will not tolerate the distribution of illegal materials,
+irc.igs.ca: (372) - including software piracy or child pornography.
+irc.igs.ca: (372) -
+irc.igs.ca: (372) - We reserve the right to remove your access to this server at any time.
+irc.igs.ca: (372) - Any violation of the rules stated above will result in you being banished
+irc.igs.ca: (372) - from the island.
+irc.igs.ca: (372) -
+irc.igs.ca: (372) - No monitoring of private communications will ever occur on this server.
+irc.igs.ca: (372) - The administration of this server believes strongly in your inalienable
+irc.igs.ca: (372) - human right to privacy. Visit http://www.eff.org.
+irc.igs.ca: (372) -
+irc.igs.ca: (372) - [ADMINISTRATION]
+irc.igs.ca: (372) - elsif <irc-admin(AT)igs.net>
+irc.igs.ca: (372) - Hardy <hardy(AT)efnet.org>
+irc.igs.ca: (372) -
+irc.igs.ca: (372) - We are not looking for IRC operators. Please do not ask.
+irc.igs.ca: (372) -
+irc.igs.ca: (372) - Are you a fan of Rock Band?
+irc.igs.ca: (372) - Check your stats, improve your game @ http://www.rockbandstats.com
+irc.igs.ca: (372) -
+irc.igs.ca: (372) -
+irc.igs.ca: (376) End of /MOTD command.
+* rubot has joined #netmonster
+irc.igs.ca: (332) #netmonster :Fuck fox | '); drop table messages; --
+irc.igs.ca: (333) #netmonster jasonmay!~jasonmay@li62-195.members.linode.com 1250883518
+irc.igs.ca: (353) @ #netmonster :rubot @dataninja @Sartak @arcanehl +toft__ +doy @newcane +lucasHome +lucas @runcible @jasonmay
+irc.igs.ca: (366) #netmonster :End of /NAMES list.
+IGSDrone: VERSION
+SENT: PONG :irc.igs.ca
+SENT: PONG :F6BC72AE
+SENT: PONG :irc.igs.ca
+SENT: PONG :06828641
+SENT: PONG :irc.igs.ca
+/usr/lib/ruby/1.8/timeout.rb:60:in `rbuf_fill': execution expired (Timeout::Error)
+	from /usr/lib/ruby/1.8/net/protocol.rb:134:in `rbuf_fill'
+	from /usr/lib/ruby/1.8/net/protocol.rb:116:in `readuntil'
+	from /usr/lib/ruby/1.8/net/protocol.rb:126:in `readline'
+	from /usr/lib/ruby/1.8/net/http.rb:2020:in `read_status_line'
+	from /usr/lib/ruby/1.8/net/http.rb:2009:in `read_new'
+	from /usr/lib/ruby/1.8/net/http.rb:1050:in `request'
+	from /usr/lib/ruby/1.8/net/http.rb:948:in `request_get'
+	from /usr/lib/ruby/1.8/net/http.rb:375:in `get_response'
+	from /usr/lib/ruby/1.8/net/http.rb:543:in `start'
+	from /usr/lib/ruby/1.8/net/http.rb:374:in `get_response'
+	from /usr/lib/ruby/1.8/net/http.rb:356:in `get'
+	from ./scripts/dictionary.rb:30:in `thesaurus'
+	from ./scripts/dictionary.rb:66:in `handle'
+	from ./scripts/dictionary.rb:82:in `install'
+	from ./handler.rb:10:in `call'
+	from ./handler.rb:10:in `handle'
+	from ./handler.rb:9:in `each'
+	from ./handler.rb:9:in `handle'
+	from ./client.rb:33:in `handle'
+	from ./rubot:39
+	from ./rubot:37:in `each'
+	from ./rubot:37
